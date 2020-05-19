@@ -120,7 +120,7 @@
                                 <fontDescription key="fontDescription" name="MisakiGothic" family="MisakiGothic" pointSize="17"/>
                                 <state key="normal" title="ファイア" backgroundImage="gold_button.png"/>
                                 <connections>
-                                    <action selector="fireAction" destination="f0x-q3-qYx" eventType="touchUpOutside" id="jmY-UU-lrG"/>
+                                    <action selector="fireAction" destination="f0x-q3-qYx" eventType="touchUpInside" id="TVB-yF-HEJ"/>
                                 </connections>
                             </button>
                             <view contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="Rzr-Er-JTS">
